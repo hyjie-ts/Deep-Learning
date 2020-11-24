@@ -1,0 +1,26 @@
+<annotation>
+	<folder>火苗1</folder>
+	<filename>火苗 (156).jpg</filename>
+	<path>D:\火苗1\火苗1\火苗 (156).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>94</ymin>
+			<xmax>277</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>火苗</folder>
+	<filename>2020-10-26_090207.jpg</filename>
+	<path>D:\火苗\2020-10-26_090207.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>469</width>
+		<height>316</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>86</ymin>
+			<xmax>401</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

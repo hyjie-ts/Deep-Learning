@@ -1,0 +1,26 @@
+<annotation>
+	<folder>火苗</folder>
+	<filename>OIP (2).jpg</filename>
+	<path>D:\火苗\OIP (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>435</width>
+		<height>262</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>115</ymin>
+			<xmax>212</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

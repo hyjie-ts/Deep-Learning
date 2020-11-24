@@ -1,0 +1,535 @@
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (74).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (74).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (346).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (346).xml
+VOCdevkit\VOC2007\JPEGImages\708009f19c3ef064f5d8dbd7c8b4ff29.jpg VOCdevkit\VOC2007\Annotations\708009f19c3ef064f5d8dbd7c8b4ff29.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (261).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (261).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (148).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (148).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (187).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (187).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (139).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (139).xml
+VOCdevkit\VOC2007\JPEGImages\e54609fb4304f5850811ff0a0223aacd.jpg VOCdevkit\VOC2007\Annotations\e54609fb4304f5850811ff0a0223aacd.xml
+VOCdevkit\VOC2007\JPEGImages\4d248d2ea1ff3d3a5e93d4358a42254c.jpg VOCdevkit\VOC2007\Annotations\4d248d2ea1ff3d3a5e93d4358a42254c.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (105).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (105).xml
+VOCdevkit\VOC2007\JPEGImages\20efd246f0a65651936af66d71333e0a.jpg VOCdevkit\VOC2007\Annotations\20efd246f0a65651936af66d71333e0a.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (385).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (385).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (171).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (171).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (477).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (477).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (128).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (128).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (309).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (309).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (216).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (216).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (275).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (275).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (184).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (184).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (245).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (245).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (26).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (26).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (278).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (278).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090752.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090752.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (426).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (426).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (204).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (204).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (124).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (124).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (339).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (339).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (240).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (240).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (267).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (267).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (281).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (281).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (166).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (166).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (99).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (99).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (30).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (30).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (100).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (100).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (121).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (121).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (490).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (490).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090341.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090341.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (326).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (326).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (257).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (257).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090826.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090826.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (397).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (397).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (370).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (370).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (431).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (431).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090405.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090405.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (159).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (159).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (259).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (259).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (270).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (270).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (90).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (90).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (312).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (312).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (295).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (295).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (451).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (451).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (411).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (411).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (393).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (393).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (149).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (149).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (229).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (229).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (160).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (160).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (188).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (188).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (193).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (193).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (350).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (350).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (485).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (485).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (474).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (474).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (138).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (138).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (428).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (428).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (206).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (206).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (230).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (230).xml
+VOCdevkit\VOC2007\JPEGImages\OIP (2).jpg VOCdevkit\VOC2007\Annotations\OIP (2).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (400).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (400).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (375).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (375).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (497).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (497).xml
+VOCdevkit\VOC2007\JPEGImages\e58b9cfcdf326afc33ef9cb58b767376.jpg VOCdevkit\VOC2007\Annotations\e58b9cfcdf326afc33ef9cb58b767376.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (383).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (383).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (262).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (262).xml
+VOCdevkit\VOC2007\JPEGImages\OIP (17).jpg VOCdevkit\VOC2007\Annotations\OIP (17).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (362).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (362).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (305).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (305).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (405).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (405).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (486).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (486).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (297).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (297).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (313).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (313).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (282).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (282).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (214).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (214).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (310).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (310).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (202).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (202).xml
+VOCdevkit\VOC2007\JPEGImages\eb85fbfec013b2b7e24d0ef80d79dc7f (1).jpg VOCdevkit\VOC2007\Annotations\eb85fbfec013b2b7e24d0ef80d79dc7f (1).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (179).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (179).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (183).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (183).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (112).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (112).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (264).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (264).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (289).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (289).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (322).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (322).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (324).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (324).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090356.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090356.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (332).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (332).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (81).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (81).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090442.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090442.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (420).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (420).xml
+VOCdevkit\VOC2007\JPEGImages\133523b83d1f97060f9e4a4f8fa34fd8.jpg VOCdevkit\VOC2007\Annotations\133523b83d1f97060f9e4a4f8fa34fd8.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (432).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (432).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (412).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (412).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (194).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (194).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (399).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (399).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (165).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (165).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (210).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (210).xml
+VOCdevkit\VOC2007\JPEGImages\6a2fc583d818a742341b2fcf762c6f95.jpg VOCdevkit\VOC2007\Annotations\6a2fc583d818a742341b2fcf762c6f95.xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090058.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090058.xml
+VOCdevkit\VOC2007\JPEGImages\88b63b0c2b23a878569eca517be87fce.jpg VOCdevkit\VOC2007\Annotations\88b63b0c2b23a878569eca517be87fce.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (78).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (78).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (340).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (340).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (107).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (107).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (66).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (66).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (416).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (416).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (307).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (307).xml
+VOCdevkit\VOC2007\JPEGImages\43af34979101a94c8ff7ed0bdf8af13c (1).jpg VOCdevkit\VOC2007\Annotations\43af34979101a94c8ff7ed0bdf8af13c (1).xml
+VOCdevkit\VOC2007\JPEGImages\8a627579797faf30e5e7b5b78fa63ed7.jpg VOCdevkit\VOC2007\Annotations\8a627579797faf30e5e7b5b78fa63ed7.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (113).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (113).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (221).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (221).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (116).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (116).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (301).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (301).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (363).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (363).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090503.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090503.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (415).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (415).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090414.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090414.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (436).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (436).xml
+VOCdevkit\VOC2007\JPEGImages\337930828a6cfeb72dc6129cb59f6413.jpg VOCdevkit\VOC2007\Annotations\337930828a6cfeb72dc6129cb59f6413.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (334).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (334).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (388).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (388).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (449).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (449).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (220).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (220).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (408).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (408).xml
+VOCdevkit\VOC2007\JPEGImages\45db3310285431d56ff4041365ab9f86.jpg VOCdevkit\VOC2007\Annotations\45db3310285431d56ff4041365ab9f86.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (470).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (470).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (365).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (365).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (351).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (351).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090927.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090927.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (495).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (495).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (344).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (344).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (444).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (444).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (173).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (173).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (186).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (186).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (114).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (114).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (162).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (162).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (380).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (380).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (253).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (253).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (122).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (122).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (494).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (494).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090934.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090934.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (167).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (167).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (24).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (24).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (191).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (191).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (358).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (358).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (453).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (453).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (369).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (369).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (384).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (384).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (367).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (367).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (135).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (135).xml
+VOCdevkit\VOC2007\JPEGImages\OIP (8).jpg VOCdevkit\VOC2007\Annotations\OIP (8).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (468).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (468).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (209).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (209).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090737.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090737.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (197).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (197).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (89).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (89).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (478).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (478).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (251).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (251).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (330).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (330).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (379).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (379).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (147).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (147).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (466).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (466).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (323).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (323).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (398).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (398).xml
+VOCdevkit\VOC2007\JPEGImages\9edd6785855c2d708f7b53d478aeb774.jpeg VOCdevkit\VOC2007\Annotations\9edd6785855c2d708f7b53d478aeb774.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (69).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (69).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (82).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (82).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090137.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090137.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (25).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (25).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (378).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (378).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090154.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090154.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (499).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (499).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (376).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (376).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (185).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (185).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (467).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (467).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (195).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (195).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (67).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (67).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (373).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (373).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (460).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (460).xml
+VOCdevkit\VOC2007\JPEGImages\cb44438eefd423b18a130f5d6a7812f9.jpg VOCdevkit\VOC2007\Annotations\cb44438eefd423b18a130f5d6a7812f9.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (92).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (92).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (72).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (72).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (59).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (59).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (407).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (407).xml
+VOCdevkit\VOC2007\JPEGImages\fa1da7c38b7b80295d78145ddaf5e603.jpg VOCdevkit\VOC2007\Annotations\fa1da7c38b7b80295d78145ddaf5e603.xml
+VOCdevkit\VOC2007\JPEGImages\OIP.jpg VOCdevkit\VOC2007\Annotations\OIP.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (177).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (177).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (493).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (493).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (429).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (429).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (283).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (283).xml
+VOCdevkit\VOC2007\JPEGImages\OIP (3).jpg VOCdevkit\VOC2007\Annotations\OIP (3).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (413).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (413).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (200).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (200).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (32).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (32).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (136).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (136).xml
+VOCdevkit\VOC2007\JPEGImages\OIP (11).jpg VOCdevkit\VOC2007\Annotations\OIP (11).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (256).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (256).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (155).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (155).xml
+VOCdevkit\VOC2007\JPEGImages\f5d7ae2b90b53609ff1f7c2c992dbbba.jpg VOCdevkit\VOC2007\Annotations\f5d7ae2b90b53609ff1f7c2c992dbbba.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (438).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (438).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (353).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (353).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (211).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (211).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (196).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (196).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (228).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (228).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (287).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (287).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (70).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (70).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (85).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (85).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (366).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (366).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (371).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (371).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (35).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (35).xml
+VOCdevkit\VOC2007\JPEGImages\ab454ae8928875751bf50fdc53314400.jpg VOCdevkit\VOC2007\Annotations\ab454ae8928875751bf50fdc53314400.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (273).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (273).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (137).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (137).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (201).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (201).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (77).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (77).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (205).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (205).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (294).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (294).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (102).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (102).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (483).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (483).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (176).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (176).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (355).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (355).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (101).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (101).xml
+VOCdevkit\VOC2007\JPEGImages\f86663bf92a87e865651b0c4d827abda.jpg VOCdevkit\VOC2007\Annotations\f86663bf92a87e865651b0c4d827abda.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (452).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (452).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (318).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (318).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (417).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (417).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090207.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090207.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (439).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (439).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (269).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (269).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090029.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090029.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (96).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (96).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (500).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (500).xml
+VOCdevkit\VOC2007\JPEGImages\OIP (10).jpg VOCdevkit\VOC2007\Annotations\OIP (10).xml
+VOCdevkit\VOC2007\JPEGImages\f68bd52dbc58ba523dfacec5761a0eb8.jpg VOCdevkit\VOC2007\Annotations\f68bd52dbc58ba523dfacec5761a0eb8.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (387).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (387).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (459).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (459).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (462).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (462).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (266).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (266).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (254).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (254).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (255).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (255).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (280).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (280).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (410).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (410).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (265).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (265).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090116.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090116.xml
+VOCdevkit\VOC2007\JPEGImages\OIP (15).jpg VOCdevkit\VOC2007\Annotations\OIP (15).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (342).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (342).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (404).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (404).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (263).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (263).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (248).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (248).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (203).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (203).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (172).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (172).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (356).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (356).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (402).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (402).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (250).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (250).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (158).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (158).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090818.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090818.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (284).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (284).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (293).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (293).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (106).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (106).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090431.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090431.xml
+VOCdevkit\VOC2007\JPEGImages\OIP (16).jpg VOCdevkit\VOC2007\Annotations\OIP (16).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (480).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (480).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (277).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (277).xml
+VOCdevkit\VOC2007\JPEGImages\c9cae77a0893f1031bbd607c1502468e.jpg VOCdevkit\VOC2007\Annotations\c9cae77a0893f1031bbd607c1502468e.xml
+VOCdevkit\VOC2007\JPEGImages\99176356d89f37cb335995296894a61d.jpg VOCdevkit\VOC2007\Annotations\99176356d89f37cb335995296894a61d.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (476).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (476).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (288).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (288).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (237).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (237).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (328).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (328).xml
+VOCdevkit\VOC2007\JPEGImages\bb2239fee4a8896ecff33c68f4802982.jpg VOCdevkit\VOC2007\Annotations\bb2239fee4a8896ecff33c68f4802982.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (27).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (27).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090458.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090458.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (83).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (83).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (450).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (450).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090128.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090128.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (337).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (337).xml
+VOCdevkit\VOC2007\JPEGImages\6683a9597466ffd412384736166d6e04.jpg VOCdevkit\VOC2007\Annotations\6683a9597466ffd412384736166d6e04.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (226).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (226).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (403).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (403).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (317).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (317).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (21).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (21).xml
+VOCdevkit\VOC2007\JPEGImages\9bf7b593a9dcf05f88ada8d06b4b80ca.jpg VOCdevkit\VOC2007\Annotations\9bf7b593a9dcf05f88ada8d06b4b80ca.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (290).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (290).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (272).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (272).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (496).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (496).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (300).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (300).xml
+VOCdevkit\VOC2007\JPEGImages\44e3e34a634440f749da82c2858bd0c1.jpg VOCdevkit\VOC2007\Annotations\44e3e34a634440f749da82c2858bd0c1.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (316).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (316).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (91).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (91).xml
+VOCdevkit\VOC2007\JPEGImages\c7ba2c2340ee53ec1b1304d69db670e0.jpg VOCdevkit\VOC2007\Annotations\c7ba2c2340ee53ec1b1304d69db670e0.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (361).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (361).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (306).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (306).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (364).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (364).xml
+VOCdevkit\VOC2007\JPEGImages\af98853aa01aed7f07bd2b33c999c0b4.jpg VOCdevkit\VOC2007\Annotations\af98853aa01aed7f07bd2b33c999c0b4.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (354).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (354).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (481).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (481).xml
+VOCdevkit\VOC2007\JPEGImages\eb85fbfec013b2b7e24d0ef80d79dc7f.jpg VOCdevkit\VOC2007\Annotations\eb85fbfec013b2b7e24d0ef80d79dc7f.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (276).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (276).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (454).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (454).xml
+VOCdevkit\VOC2007\JPEGImages\3cf81df0bbbd119001016c7142e8e80b.jpg VOCdevkit\VOC2007\Annotations\3cf81df0bbbd119001016c7142e8e80b.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (473).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (473).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (227).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (227).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (246).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (246).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (349).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (349).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (434).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (434).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (442).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (442).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (338).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (338).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (457).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (457).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (144).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (144).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (207).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (207).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (180).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (180).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090451.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090451.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (414).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (414).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (234).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (234).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (110).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (110).xml
+VOCdevkit\VOC2007\JPEGImages\b3eb72893966b25bdb4b3fffa3dcd9ce.jpg VOCdevkit\VOC2007\Annotations\b3eb72893966b25bdb4b3fffa3dcd9ce.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (425).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (425).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (357).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (357).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (23).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (23).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (341).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (341).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (222).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (222).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (244).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (244).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (268).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (268).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (461).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (461).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (302).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (302).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (71).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (71).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (345).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (345).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (134).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (134).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (440).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (440).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (286).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (286).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (218).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (218).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (126).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (126).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090422.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090422.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (418).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (418).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (88).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (88).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (170).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (170).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (213).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (213).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (299).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (299).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (247).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (247).xml
+VOCdevkit\VOC2007\JPEGImages\OIP (6).jpg VOCdevkit\VOC2007\Annotations\OIP (6).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (151).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (151).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (360).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (360).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090108.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090108.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (492).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (492).xml
+VOCdevkit\VOC2007\JPEGImages\2513b4c5e7a7ff9afee7315215705392.jpg VOCdevkit\VOC2007\Annotations\2513b4c5e7a7ff9afee7315215705392.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (258).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (258).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (469).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (469).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (390).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (390).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (190).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (190).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (298).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (298).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (472).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (472).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (146).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (146).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (320).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (320).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (154).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (154).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (392).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (392).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (199).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (199).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090306.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090306.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (145).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (145).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (427).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (427).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (127).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (127).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (28).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (28).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (443).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (443).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (448).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (448).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090852.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090852.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (61).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (61).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (423).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (423).xml
+VOCdevkit\VOC2007\JPEGImages\938694c917f9a7c03dd2588aaa07f924.jpg VOCdevkit\VOC2007\Annotations\938694c917f9a7c03dd2588aaa07f924.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (491).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (491).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (319).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (319).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (73).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (73).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (34).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (34).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (192).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (192).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (482).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (482).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (441).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (441).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (325).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (325).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (487).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (487).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (447).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (447).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (458).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (458).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (95).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (95).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (456).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (456).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (471).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (471).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (62).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (62).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (208).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (208).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (37).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (37).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090319.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090319.xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090231.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090231.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (274).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (274).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (463).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (463).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (238).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (238).xml
+VOCdevkit\VOC2007\JPEGImages\OIP (9).jpg VOCdevkit\VOC2007\Annotations\OIP (9).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (285).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (285).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (271).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (271).xml
+VOCdevkit\VOC2007\JPEGImages\OIP (1).jpg VOCdevkit\VOC2007\Annotations\OIP (1).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090944.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090944.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (232).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (232).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (225).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (225).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (446).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (446).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (217).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (217).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (123).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (123).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (445).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (445).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (260).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (260).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (419).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (419).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (489).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (489).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (308).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (308).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (31).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (31).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (382).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (382).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (115).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (115).xml
+VOCdevkit\VOC2007\JPEGImages\OIP (13).jpg VOCdevkit\VOC2007\Annotations\OIP (13).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (198).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (198).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (335).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (335).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (381).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (381).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (41).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (41).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (212).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (212).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (343).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (343).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (501).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (501).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (38).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (38).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (125).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (125).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (29).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (29).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (374).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (374).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (168).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (168).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (314).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (314).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (333).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (333).xml
+VOCdevkit\VOC2007\JPEGImages\e25169a083ea078d9f69d7082201bdf4 (1).jpg VOCdevkit\VOC2007\Annotations\e25169a083ea078d9f69d7082201bdf4 (1).xml
+VOCdevkit\VOC2007\JPEGImages\e25169a083ea078d9f69d7082201bdf4.jpg VOCdevkit\VOC2007\Annotations\e25169a083ea078d9f69d7082201bdf4.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (161).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (161).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (433).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (433).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (484).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (484).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (111).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (111).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (401).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (401).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (498).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (498).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (36).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (36).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (80).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (80).xml
+VOCdevkit\VOC2007\JPEGImages\757f9f5d5d938f299bff6bedfd327e52.jpg VOCdevkit\VOC2007\Annotations\757f9f5d5d938f299bff6bedfd327e52.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (181).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (181).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (352).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (352).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (189).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (189).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (391).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (391).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (421).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (421).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (479).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (479).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (455).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (455).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (235).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (235).xml
+VOCdevkit\VOC2007\JPEGImages\dfcdb821c49a8eccce317d643ff430d9.jpg VOCdevkit\VOC2007\Annotations\dfcdb821c49a8eccce317d643ff430d9.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (243).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (243).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (242).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (242).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090727.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090727.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (129).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (129).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (424).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (424).xml
+VOCdevkit\VOC2007\JPEGImages\beebbbb0ed7924abc2cb6d351a12257c.jpg VOCdevkit\VOC2007\Annotations\beebbbb0ed7924abc2cb6d351a12257c.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (465).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (465).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (437).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (437).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (233).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (233).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (103).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (103).xml
+VOCdevkit\VOC2007\JPEGImages\9df15ecd40f9329f01da549b026a8721.jpg VOCdevkit\VOC2007\Annotations\9df15ecd40f9329f01da549b026a8721.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (39).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (39).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (231).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (231).xml
+VOCdevkit\VOC2007\JPEGImages\6adbbf2bf8a89dd9ae8ecb7586347e75.jpg VOCdevkit\VOC2007\Annotations\6adbbf2bf8a89dd9ae8ecb7586347e75.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (132).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (132).xml
+VOCdevkit\VOC2007\JPEGImages\ec1acb22d183eb3e428514227ac17600.jpg VOCdevkit\VOC2007\Annotations\ec1acb22d183eb3e428514227ac17600.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (40).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (40).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (336).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (336).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (406).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (406).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (435).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (435).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (359).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (359).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (389).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (389).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (118).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (118).xml
+VOCdevkit\VOC2007\JPEGImages\OIP (12).jpg VOCdevkit\VOC2007\Annotations\OIP (12).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (296).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (296).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (327).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (327).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (133).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (133).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (219).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (219).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090040.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090040.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (315).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (315).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (249).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (249).xml
+VOCdevkit\VOC2007\JPEGImages\e1ae676b99b7d76359721d5e70084ab0.jpeg VOCdevkit\VOC2007\Annotations\e1ae676b99b7d76359721d5e70084ab0.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (104).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (104).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (409).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (409).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (396).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (396).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (464).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (464).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (279).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (279).xml
+VOCdevkit\VOC2007\JPEGImages\8dedb86ffbc13103ff313bf449f9f1a2.jpg VOCdevkit\VOC2007\Annotations\8dedb86ffbc13103ff313bf449f9f1a2.xml
+VOCdevkit\VOC2007\JPEGImages\OIP (7).jpg VOCdevkit\VOC2007\Annotations\OIP (7).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (68).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (68).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (386).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (386).xml
+VOCdevkit\VOC2007\JPEGImages\OIP (5).jpg VOCdevkit\VOC2007\Annotations\OIP (5).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (60).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (60).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (304).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (304).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (79).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (79).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (143).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (143).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (94).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (94).xml
+VOCdevkit\VOC2007\JPEGImages\OIP (18).jpg VOCdevkit\VOC2007\Annotations\OIP (18).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (252).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (252).xml
+VOCdevkit\VOC2007\JPEGImages\40da7f5f8659f95220cb4608d786c4db.jpg VOCdevkit\VOC2007\Annotations\40da7f5f8659f95220cb4608d786c4db.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (182).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (182).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (140).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (140).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090710.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090710.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (292).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (292).xml
+VOCdevkit\VOC2007\JPEGImages\8aca944839ee4918af2998232257544b.jpg VOCdevkit\VOC2007\Annotations\8aca944839ee4918af2998232257544b.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (224).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (224).xml
+VOCdevkit\VOC2007\JPEGImages\OIP (14).jpg VOCdevkit\VOC2007\Annotations\OIP (14).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (156).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (156).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (236).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (236).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (117).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (117).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (430).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (430).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (475).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (475).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (329).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (329).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (394).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (394).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090146.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090146.xml
+VOCdevkit\VOC2007\JPEGImages\bb4afeb749647a751c2abdaa3e10b1f6.jpg VOCdevkit\VOC2007\Annotations\bb4afeb749647a751c2abdaa3e10b1f6.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (241).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (241).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (63).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (63).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (169).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (169).xml
+VOCdevkit\VOC2007\JPEGImages\b72c5d049f1b1c2e8c9c86df1b597e36.jpg VOCdevkit\VOC2007\Annotations\b72c5d049f1b1c2e8c9c86df1b597e36.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (157).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (157).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (223).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (223).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (93).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (93).xml
+VOCdevkit\VOC2007\JPEGImages\2020-10-26_090253.jpg VOCdevkit\VOC2007\Annotations\2020-10-26_090253.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (395).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (395).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (150).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (150).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (321).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (321).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (368).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (368).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (239).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (239).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (291).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (291).xml
+VOCdevkit\VOC2007\JPEGImages\0f440bcd401c20e41c121ca26cb1e2ea.jpg VOCdevkit\VOC2007\Annotations\0f440bcd401c20e41c121ca26cb1e2ea.xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (215).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (215).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (372).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (372).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (178).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (178).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (311).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (311).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (84).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (84).xml
+VOCdevkit\VOC2007\JPEGImages\OIP (4).jpg VOCdevkit\VOC2007\Annotations\OIP (4).xml
+VOCdevkit\VOC2007\JPEGImages\ป๐ร็ (303).jpg VOCdevkit\VOC2007\Annotations\ป๐ร็ (303).xml

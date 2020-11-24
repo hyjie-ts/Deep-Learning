@@ -1,0 +1,50 @@
+<annotation>
+	<folder>火苗2</folder>
+	<filename>火苗 (267).jpg</filename>
+	<path>D:\WeChat Files\wxid_gjknxjk97ts112\FileStorage\File\2020-09\火苗2\火苗2\火苗 (267).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>126</ymin>
+			<xmax>78</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>155</ymin>
+			<xmax>155</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>108</ymin>
+			<xmax>135</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

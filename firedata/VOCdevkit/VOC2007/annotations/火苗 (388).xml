@@ -1,0 +1,26 @@
+<annotation>
+		<floder>JPEGImages</floder>
+		<path>None</path>
+		<source>
+			<database>Unknow</database>
+		</source>
+		<segmented>0</segmented>
+		<filename>火苗 (388).jpg</filename>
+		<size>
+			<width>301</width>
+			<height>168</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>Fire</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>161</xmin>
+				<ymin>57</ymin>
+				<xmax>192</xmax>
+				<ymax>147</ymax>
+			</bndbox>
+		</object>
+	</annotation>

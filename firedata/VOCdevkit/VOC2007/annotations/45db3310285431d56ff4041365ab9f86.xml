@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<floder>JPEGImages</floder>
+		<path>None</path>
+		<source>
+			<database>Unknow</database>
+		</source>
+		<segmented>0</segmented>
+		<filename>45db3310285431d56ff4041365ab9f86.jpg</filename>
+		<size>
+			<width>500</width>
+			<height>500</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>Fire</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>238</xmin>
+				<ymin>26</ymin>
+				<xmax>284</xmax>
+				<ymax>195</ymax>
+			</bndbox>
+		</object>
+	</annotation>
