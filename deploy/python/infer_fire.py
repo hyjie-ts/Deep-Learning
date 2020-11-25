@@ -792,10 +792,9 @@ if __name__ == '__main__':
     print_arguments(FLAGS)
 
     print('run program')
-    # rtmp_str = 'rtmp://live.hkstv.hk.lxdns.com/live/hks'  # 经测试，已不能用。可以尝试下面两个。
-    # rtmp_str = 'rtmp://58.200.131.2:1935/livetv/hunantv'  # CCTV
+    # rtmp_str = 'rtmp://58.200.131.2:1935/livetv/hunantv'  # 湖南tv测试用
     # ip = input('ip:')
-    rtmp_str = 'rtmp://42.192.227.236:1935/live/home'
+    rtmp_str = 'rtmp://公网ip:1935/live/home'
     signal.signal(signal.SIGTERM, handle)
     signal.signal(signal.SIGINT, handle)
     
