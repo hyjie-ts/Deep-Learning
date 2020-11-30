@@ -1,3 +1,1 @@
-inference_model filter=lfs diff=lfs merge=lfs -text
-faster_rcnn_r50_fpn_1x.zip filter=lfs diff=lfs merge=lfs -text
 inference_model/faster_rcnn_r50_fpn_1x.zip filter=lfs diff=lfs merge=lfs -text
