@@ -12,12 +12,12 @@ ubuntu18.04 搭建Nginx-RTMP视频推流服务器.md
 
 ##训练命令  
 基于paddle飞浆框架使用faster_rcnn_r50_fpn_1x模型进行火灾检测  
-输出模型保存在output文件中
+输出模型保存在output文件夹中
 ```
 python -u tools/train.py -c configs/faster_rcnn_r50_fpn_1x.yml -o pretrain_weights=faster_rcnn_r50_fpn_1x finetune_exclude_pretrained_params=['cls_score','bbox_pred'] --eval
 ```
 ##部署模型  
-导出模型在inference_model中
+导出模型在inference_model文件夹中
 ```
 python -u tools/export_model.py -c configs/faster_rcnn_r50_fpn_1x.yml --output_dir=./inference_model
 ```
