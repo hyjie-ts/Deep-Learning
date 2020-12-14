@@ -5,8 +5,8 @@ import time
 bucket_name = 'datat'
 T = str(datetime.date.today())+str(time.strftime("%H:%M:%S"))
 localfile = 'fire_result.avi'
-access_key = 'tNaErVuyTGRTqs6LvtIfCFjZlChw_dD7dTlKTEFR'
-secret_key = 'jdF38Qv3DL6l47Mb13HjiFR4X7746fbZ1lGXLvkS'
+access_key = 'tNaErRTqs6LvtIfCFjZlChw_dD7dTlKTEFR'
+secret_key = 'jdF38Qv3DL6ljiFR4X7746fbZ1lGXLvkS'
 fops = 'avthumb/mp4/s/640x360/vb/1.25m'
 saveas_key = urlsafe_base64_encode(localfile)
 fops = fops+'|saveas/'+saveas_key
