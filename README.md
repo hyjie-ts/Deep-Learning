@@ -1,4 +1,4 @@
-# Deep-Learning|paddlepaddle
+# Deep-Learning|paddlepaddle|火灾识别
 ##我们的项目包含slam、无人机app、腾讯云服务器搭建、云存储、以及人体检测，这部分仅关于飞桨的烟火识别代码  
 ##基于大疆sdk自己开发的APP
 ```
